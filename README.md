@@ -28,7 +28,7 @@ Advanced Bias Mitigation: Trained using Negative Sampling (images of healthy roa
 
 Clone the repository:
 
-git clone https://github.com/zheng-anthony/AURA.git
+git clone https://github.com/ReneThee/Automatic_Road_Detection_system.gi
 cd AURA
 
 
