@@ -28,7 +28,7 @@ Advanced Bias Mitigation: Trained using Negative Sampling (images of healthy roa
 
 Clone the repository:
 
-git clone https://github.com/zhengAntony/AURA.gi
+git clone https://github.com/zheng-Antony/AURA.gi
 cd AURA
 
 
